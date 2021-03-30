@@ -1,3 +1,4 @@
+![logo](https://user-images.githubusercontent.com/80974292/112996529-6f198f00-9196-11eb-8f76-e66c6848c96d.png)
 ---
 title: Disabling OAuth App access restrictions for your organization
 intro: 'Organization owners can disable restrictions on the {% data variables.product.prodname_oauth_app %}s that have access to the organization''s resources.'
