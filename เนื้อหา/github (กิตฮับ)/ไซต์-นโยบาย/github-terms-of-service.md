@@ -1,3 +1,4 @@
+![Uploading logo.png…]()
 ---
 title: GitHub Terms of Service
 redirect_from:
