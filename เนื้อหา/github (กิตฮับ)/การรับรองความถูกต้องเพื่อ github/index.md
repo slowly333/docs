@@ -1,3 +1,5 @@
+
+![logo](https://user-images.githubusercontent.com/80974292/112994940-f239e580-9194-11eb-8be3-caa6a91dfd37.png)
 ---
 title: Authenticating to GitHub
 shortTitle: Authentication
